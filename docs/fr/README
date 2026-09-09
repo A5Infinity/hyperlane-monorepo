@@ -1,8 +1,27 @@
 # Parcours français — Hyperlane
 
-- [1. Mailbox et dispatch](01-mailbox-et-dispatch.md)
-- [2. Quote et livraison des messages](02-quote-et-livraison-des-messages.md)
-- [3. ISM et vérification](03-ism-et-v-rification.md)
-- [4. Validators et agrégation](04-validators-et-agr-gation.md)
-- [5. Warp Routes et tokens](05-warp-routes-et-tokens.md)
-- [6. Lecture du code](06-lecture-du-code.md)
+## 1. Mailbox
+
+Architecture, flux principal, validations et limites.
+
+## 2. Dispatch
+
+Architecture, flux principal, validations et limites.
+
+## 3. ISM
+
+Architecture, flux principal, validations et limites.
+
+## 4. Validators
+
+Architecture, flux principal, validations et limites.
+
+## 5. Warp Routes
+
+Architecture, flux principal, validations et limites.
+
+## 6. Sécurité inter-chaines
+
+Architecture, flux principal, validations et limites.
+
+Parcours documentaire : aucun test ni déploiement exécuté.
